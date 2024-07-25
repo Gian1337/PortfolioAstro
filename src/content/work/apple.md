@@ -1,11 +1,18 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "Visito AI"
+role: "Full Stack Developer - Internship"
+dateStart: "June 2024"
+dateEnd: "Present"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Worked on backend services using Node.js and Express framework by developing RESTful APIs integrated
+with MongoDB for data storage. Implemented data models, schemas designs and database queries.
+Built responsive and dynamic user interfaces using React, Tailwind CSS and NextUI.
 
-- Sit amet consectetur adipisicing elit. Iure illo neque tempora.
-- Quibusdam, debitis voluptatum, lorem ipsum
+- React.js
+- Node.js
+- Typescript
+- Express
+- MongoDB
+- Tailwind CSS
+- NextUI

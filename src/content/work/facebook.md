@@ -1,10 +1,17 @@
 ---
-company: "Facebook"
-role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+company: "Danaus S.R.L"
+role: "IT Support"
+dateStart: "August 2020"
+dateEnd: "January 2019"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Created accesible, responsive and functional user interfaces to allow visitors on any device to have the same
+perfect user experience and developed user interfaces with modern JavaScripts, HTML5 and CSS3
+frameworks .
 
-- Sit amet consectetur adipisicing elit.
+- Computer Hardware
+- IT Services
+- Windows / MacOs
+- TeamViewer
+- Firewalls
+- Microsoft Products

@@ -1,12 +1,15 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
-dateEnd: "Now"
+company: "Pensando en Emigrar"
+role: "Web Developer"
+dateStart: "February 2023"
+dateEnd: "August 2022"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+Created accesible, responsive and functional user interfaces to allow visitors on any device to have the same
+perfect user experience and developed user interfaces with modern JavaScripts, HTML5 and CSS3
+frameworks.
 
-- Aadipisicing elit. Iure illo neque tempora, voluptatem est.
-- dolorem dignissimos nulla ratione.
-- Quibusdam, debitis voluptatum, lorem ipsum dolor.
+- HTML5
+- CSS3
+- JavaScript
+- Boostrap
