@@ -1,8 +1,8 @@
 ---
 company: "Pensando en Emigrar"
 role: "Web Developer"
-dateStart: "February 2023"
-dateEnd: "August 2022"
+dateStart: "August 2022"
+dateEnd: "February 2023"
 ---
 
 Created accesible, responsive and functional user interfaces to allow visitors on any device to have the same

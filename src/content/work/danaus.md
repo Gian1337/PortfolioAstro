@@ -1,8 +1,8 @@
 ---
 company: "Danaus S.R.L"
 role: "IT Support"
-dateStart: "August 2020"
-dateEnd: "January 2019"
+dateStart: "January 2019"
+dateEnd: "August 2020"
 ---
 
 Created accesible, responsive and functional user interfaces to allow visitors on any device to have the same
