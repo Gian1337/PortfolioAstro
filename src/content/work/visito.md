@@ -2,7 +2,7 @@
 company: "Visito AI"
 role: "Full Stack Developer - Internship"
 dateStart: "June 2024"
-dateEnd: "Present"
+dateEnd: "September 2024"
 ---
 
 Worked on backend services using Node.js and Express framework by developing RESTful APIs integrated

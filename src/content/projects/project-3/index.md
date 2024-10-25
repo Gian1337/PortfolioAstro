@@ -8,5 +8,5 @@ tags:
   - HTML5
   - CSS3
   - Boostrap
-demoUrl: "https://compoundsolutions.netlify.app/"
+demoUrl: "https://compound-outsourcing.com/"
 ---
