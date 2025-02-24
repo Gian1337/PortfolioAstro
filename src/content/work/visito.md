@@ -2,12 +2,10 @@
 company: "Visito AI"
 role: "Full Stack Developer - Internship"
 dateStart: "June 2024"
-dateEnd: "September 2024"
+dateEnd: "November 2024"
 ---
 
-Worked on backend services using Node.js and Express framework by developing RESTful APIs integrated
-with MongoDB for data storage. Implemented data models, schemas designs and database queries.
-Built responsive and dynamic user interfaces using React, Tailwind CSS and NextUI.
+Engineered and deployed a high-impact internal web application using React, Node.js, and MongoDB that streamlined the marketing team's case resolution workflow, resulting in a 40% reduction in processing time by implementing automated status tracking, customizable dashboards, and real-time collaboration features for campaign issue management.
 
 - React.js
 - Node.js
@@ -15,4 +13,4 @@ Built responsive and dynamic user interfaces using React, Tailwind CSS and NextU
 - Express
 - MongoDB
 - Tailwind CSS
-- NextUI
+- Next.js

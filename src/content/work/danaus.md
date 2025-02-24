@@ -1,17 +1,16 @@
 ---
 company: "Danaus S.R.L"
-role: "IT Support"
-dateStart: "January 2019"
-dateEnd: "August 2020"
+role: "Information Technology Support Specialist"
+dateStart: "January 2022"
+dateEnd: "August 2023"
 ---
 
-Created accesible, responsive and functional user interfaces to allow visitors on any device to have the same
-perfect user experience and developed user interfaces with modern JavaScripts, HTML5 and CSS3
-frameworks .
+Managed end-to-end IT operations, including configuring hardware and software, setting up peripherals like printers, troubleshooting and resolving hardware or software issues, and actively assisting in monitoring PC performance to ensure optimal functionality.
 
 - Computer Hardware
 - IT Services
-- Windows / MacOs
+- Windows / MacOs environments
 - TeamViewer
 - Firewalls
 - Microsoft Products
+- Ticketing systems
