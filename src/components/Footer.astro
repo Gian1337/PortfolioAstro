@@ -68,7 +68,7 @@ import Container from "@components/Container.astro";
                 class="relative inline-flex rounded-full h-3 w-3 bg-green-500"
               ></span>
             </span>
-             Currently looking for a position
+            Currently at Devote Consulting
           </div>
         </div>
       </Container>
@@ -110,19 +110,19 @@ import Container from "@components/Container.astro";
 </footer>
 
 <script is:inline>
-function goBackToTop(event) {
-  event.preventDefault();
-  window.scrollTo({
-    top: 0,
-    behavior: "smooth",
-  });
-}
+  function goBackToTop(event) {
+    event.preventDefault();
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  }
 
-function inintializeBackToTop() {
-  const backToTop = document.getElementById("back-to-top");
-  backToTop?.addEventListener("click", goBackToTop);
-}
+  function inintializeBackToTop() {
+    const backToTop = document.getElementById("back-to-top");
+    backToTop?.addEventListener("click", goBackToTop);
+  }
 
-document.addEventListener("astro:after-swap", inintializeBackToTop);
-inintializeBackToTop();
+  document.addEventListener("astro:after-swap", inintializeBackToTop);
+  inintializeBackToTop();
 </script>
