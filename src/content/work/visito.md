@@ -1,6 +1,6 @@
 ---
 company: "Visito AI"
-role: "Full Stack Developer - Internship"
+role: "Full Stack Developer"
 dateStart: "June 2024"
 dateEnd: "November 2024"
 ---
